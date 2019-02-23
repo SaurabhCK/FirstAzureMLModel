@@ -1,0 +1,15 @@
+curl -X POST -H 'Content-Type':'application/json'  -d '{"data":[[22]]}' http://40.119.204.139:80/score 
+
+
+Face Recognition
+Emotion Sensing
+Transcript Export
+Keywords used
+Topic Discussed
+Brand name usesd
+Label used
+Keyframes used in the video
+
+Community - DCGA
+
+4 Categories - Nano(<250g), Micro(250g-2kg) and Mini(2kg-25kg) and Small(25kg-150kg)
